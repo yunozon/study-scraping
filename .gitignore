@@ -1,6 +1,6 @@
 scraping-env/
-.csv
-.xlsx
+*.csv
+*.xlsx
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
